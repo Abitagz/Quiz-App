@@ -3,7 +3,7 @@
 
 
 
-### credits
-  ### As always slack community, i learn a lt from You everyday!
+## credits
+  ### As always slack community, I learn a lot from You everyday!
   ### A special creadit to Florin PoP (A youtuber) JavaScript is almost all is his idea.Thank you for the challenge!
 
